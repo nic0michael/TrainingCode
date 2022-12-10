@@ -1,7 +1,6 @@
 import java.io.*;
 
 /**
- *
  * @author Nico Michael
  */
 public class ToDoList {

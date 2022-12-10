@@ -1,5 +1,8 @@
 import java.io.*;
 
+/**
+ * @author Nico Michael
+ */
 public class FileUtilities { 
     
     public static boolean exists(String fileName){
